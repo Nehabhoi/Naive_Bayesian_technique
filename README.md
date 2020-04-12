@@ -4,6 +4,7 @@
   <h3 align="center">Naïve Bayesian technique</h3>
 
 </p>
+
 ## Authors
 
 [Liam Nguyen](https://github.com/liam-nguyen)
