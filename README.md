@@ -1,9 +1,24 @@
-Bulding a classifier using Naïve Bayesian technique 
+<br />
+<p align="center">
 
-dataset source:
-https://www.kaggle.com/uciml/pima-indians-diabetes-database 
+  <h3 align="center">Naïve Bayesian technique</h3>
 
-Evalute tarining data based on confusion matrix:
+</p>
+## Authors
+
+[Liam Nguyen](https://github.com/liam-nguyen)
+
+[Neha Bhoi](https://github.com/Nehabhoi)
+
+### Prerequisites
+[dataset source](https://www.kaggle.com/uciml/pima-indians-diabetes-database )
+
+
+## About The Project
+
+This project create a classifier using Naïve Bayesian technique.
+
+Also Evalute tarining data based on confusion matrix:
 
 Classification Error: Overall, how often is the classifier correct?  
 Accuracy = (TP + TN) / (TP + FP + TN +FN) 
